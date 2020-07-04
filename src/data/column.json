@@ -1,0 +1,19 @@
+[{
+    "id": "id",
+    "name":"序号",
+    "width": 50
+}, {
+    "id": "name",
+    "name": "名称",
+    "width": 100
+}, {
+    "id": "increase",
+    "name": "涨幅",
+    "type": "num",
+    "width": 50
+}, {
+    "id": "count",
+    "name": "成交量",
+    "type": "count",
+    "width": 50
+}]

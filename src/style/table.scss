@@ -1,0 +1,21 @@
+.main-table {
+    background-color: #283653;
+    color: white;
+    .main-table-head {
+        color: #757d7e;
+    }
+    .main-table-row.hover {
+        background-color: #677eaf;
+    }
+    .main-table-body__cell {
+        .positive {
+            color: #0c7452;
+        }
+        .negative {
+            color: #892c3b;
+        }
+        .count {
+            color: #b77916;
+        }
+    }
+}
